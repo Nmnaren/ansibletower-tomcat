@@ -1,6 +1,6 @@
 ---
 
-- hosts: all
+- hosts: 172.31.32.149
   remote_user: ec2-user
   become: yes
   become_method: sudo
