@@ -1,8 +1,0 @@
-variables:
-
-# Ansible Variables
-  server_port: 8080
-  openjdk_java_version: java-1.8.0-openjdk-1.8.0.141-1,b16,e17_3.x86_64
-  tomcat_instance_name: narendra
-  tomcat_majorversion: 8
-  narendra_tomcat_version: 8.5.66
